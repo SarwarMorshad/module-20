@@ -15,4 +15,4 @@ function inchToFeet(inch) {
   }
 }
 
-console.log(inchToFeet(38)); // Example usage, returns "3' 0""
+console.log(inchToFeet(38));
