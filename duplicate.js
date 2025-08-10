@@ -1,4 +1,6 @@
-// 1 Finding Duplicate Numbers in an Array
+// ! Remove duplicates from an array
+// ! Logic:
+// **unique.includes(item) or unique.includes(item) === false
 
 function noDuplicate(arr) {
   const unique = [];
